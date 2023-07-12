@@ -1,6 +1,6 @@
 ![IPL](https://github.com/Rony123777/IPL_analysis/assets/99428911/e344cde4-56d1-49da-8837-742de14560ce)
 
-# IPL_ANALYSIS
+# IPL_ANALYSIS_SQL
 This project provides an analysis of Indian Premier League (IPL) data using SQL statements, including joins, functions like group by, order by, and aggregate functions. The analysis focuses on three IPL seasons: 2017, 2009, and 2008.
 
 Data
@@ -25,8 +25,9 @@ The IPL analysis using SQL statements, joins, and various functions offers valua
 
 Matches table attributes : id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2,umpire3
 
-Deliveries table attributes :match_id,inning,batting_team,bowling_team,over_no,ball,batsman,non_striker,bowler,is_super_over_no,wide_runs,bye_runs
-,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+Deliveries table attributes :
+match_id,inning,batting_team,bowling_team,over_no,ball,batsman,non_striker,bowler,is_super_over_no,wide_runs,bye_runs,
+legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
 
 
 
